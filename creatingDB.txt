@@ -1,0 +1,12 @@
+
+CREATE DATABASE IF NOT EXISTS tuition_manager;
+USE tuition_manager;
+
+CREATE TABLE IF NOT EXISTS students (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    Name VARCHAR(255) NOT NULL,
+    University_ID VARCHAR(255) NOT NULL,
+    Payment_Status VARCHAR(255) NOT NULL,
+    Installment_Date DATE NOT NULL,
+    Installment_Amount DECIMAL(10, 2) NOT NULL
+);
