@@ -1,4 +1,3 @@
-فهمت! إليك التحديث مع أوامر التنزيل بدون الحاجة لملف **setup_instructions.txt**:
 
 ### **University Installments Tracker - University Database Task (2023-2024) ✅**
 
@@ -18,7 +17,7 @@ This repository contains the **University Installments Tracker**, a **university
 #### **⚙️ How to Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/university-installments-tracker.git
+   git clone https://github.com/ievarx/university-installments-tracker.git
    ```  
 2. **Install dependencies:**  
    Run the following commands to install necessary dependencies:  
